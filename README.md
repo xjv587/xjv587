@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+
+My name is Jing, and I'm UT Austin trained data scientist interested in all things Data Science! 
+
 - 🔭 I’m currently working on NLP (and LLM)
 - 🌱 I’m currently learning GenAI
 <!--
