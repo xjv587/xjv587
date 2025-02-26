@@ -3,6 +3,7 @@
 My name is Jing, and I'm an UT Austin trained data scientist interested in all things about Data Science! 
 
 - 🔭 I’m currently working on NLP (and LLM)
+
 This is my learning channel. Feel free to reach out if you are interested in LM and AI :) 
 <!--
 **xjv587/xjv587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
