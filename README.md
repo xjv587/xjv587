@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is Jing, and I'm an UT Austin trained data scientist interested in all things Data Science! 
+My name is Jing, and I'm an UT Austin trained data scientist interested in all things about Data Science! 
 
 - 🔭 I’m currently working on NLP (and LLM)
 - 🌱 I’m currently learning GenAI
